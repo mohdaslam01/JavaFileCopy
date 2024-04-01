@@ -1,0 +1,1 @@
+try(FileOutputStream fos=new FileOutputStream("C:/Users/Aslam/OneDrive/Desktop/mdaslam/java/FileIOStreamProgram/Data.txt")){-1-1-1-1good
